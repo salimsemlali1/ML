@@ -28,7 +28,7 @@ Ce projet utilise un **réseau de neurones convolutif (CNN)** pour classer autom
 
 ##  Étapes d'installation et d'exécution
 
-### ✅ Étape 1 : Installer les dépendances
+### Étape 1 : Installer les dépendances
 
 ```bash
 pip install --upgrade pip
@@ -37,7 +37,7 @@ pip install tensorflow matplotlib numpy
 
 ---
 
-### ✅ Étape 2 : Lancer le Notebook Jupyter
+### Étape 2 : Lancer le Notebook Jupyter
 
 ```bash
 jupyter notebook
@@ -48,7 +48,7 @@ Puis ouvrir le fichier :
 
 ---
 
-## 📋 Étapes du projet dans le notebook
+##  Étapes du projet dans le notebook
 
 1.  Chargement des données CIFAR-10
 2.  Prétraitement : normalisation + one-hot encoding
@@ -62,7 +62,7 @@ Puis ouvrir le fichier :
 
 ---
 
-## 🧠 Architecture du modèle CNN
+##  Architecture du modèle CNN
 
 ```text
 Entrée : (32, 32, 3)
@@ -78,7 +78,7 @@ Entrée : (32, 32, 3)
 
 ---
 
-## 📈 Résultats attendus
+##  Résultats attendus
 
 - Précision du modèle : ~70–80% après 10 époques
 - Graphiques générés :
