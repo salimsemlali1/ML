@@ -44,7 +44,7 @@ jupyter notebook
 ```
 
 Puis ouvrir le fichier :  
-📄 `Nom_Du_Projet.ipynb`
+`Nom_Du_Projet.ipynb`
 
 ---
 
@@ -90,7 +90,7 @@ Entrée : (32, 32, 3)
 
 
 
-## 👨‍💻 Auteur
+##  Auteur
 
 - **Nom** : Semlali Salim
 - **Contact** : salim.semlali@um5r.ac.ma
